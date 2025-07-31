@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Beautiful Sunset",
+    "description": "A stunning sunset over the mountains",
+    "tags": ["sunset", "nature", "landscape"],
+    "image": "sunset.jpg",
+    "createdAt": "2023-10-01T12:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Ocean Waves",
+    "description": "Powerful waves crashing on the shore",
+    "tags": ["ocean", "water", "nature"],
+    "image": "waves.jpg",
+    "createdAt": "2023-10-02T09:30:00Z"
+  }
+]
